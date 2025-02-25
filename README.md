@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Yaxin (Janet) Zhuang</h1>
 <h3 align="center">Data Scientist | ML Engineer | AI Enthusiast</h3>
 
-### 🌱 **Currently Learning**: Advanced real-time ML system design, Full Stack AI 
+### 🌱 **Currently Learning**: Advanced real-time ML system design, Full Stack AI Developer
 ### 📌 **Current Focus**: Building **Production-Ready ML/AI Pipelines**  
 ### 🔭 **Projects**: AI APIs, ML Deployment, NLP, and Scalable AI Systems  
 
