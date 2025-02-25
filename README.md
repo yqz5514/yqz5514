@@ -17,9 +17,9 @@
 
 ## 🏆 **Projects & Interests**
 ### 🔹 **🌍 ML System Deployment & Scaling**
-📌 **Project**: [Production-Ready ML Pipeline]([https://github.com/YOUR-REPO](https://github.com/yqz5514/Machine-Learning-AI-Engineer/tree/main/MLOps%20and%20MLSD/Practice/week1-ai-ml-system-diagram/ML-System-Pipeline))  
-🔹 Built an end-to-end **ML API** with **FastAPI, Docker, and Kubernetes**  
-🔹 Implemented **auto-scaling** using **Kubernetes HPA**  
+📌 **Project**: [Production-Ready ML Pipeline](https://github.com/yqz5514/Machine-Learning-AI-Engineer/tree/main/MLOps%20and%20MLSD/Practice/week1-ai-ml-system-diagram/ML-System-Pipeline)  
+🔹 Built an end-to-end **ML API** with **FastAPI, Docker,and Kubernetes**  
+🔹 Implemented **auto-scaling** using **Kubernetes**  
 🔹 Optimized performance with **MLflow model tracking & CI/CD**  
 
 ### 🔹 **📊 AI Agent Development**
